@@ -2,7 +2,6 @@
 The Tic Tac Toe is free classic puzzle game also known as Noughts and Crosses or sometimes X and O.
 Our game offers:
 ✓ 3 different game levels
-✓ 1 player game
 ✓ game statistics
 
 Developed as a part of a personal project. 
