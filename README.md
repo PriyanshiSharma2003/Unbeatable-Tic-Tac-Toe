@@ -1,15 +1,15 @@
 # Unbeatable-Tic-Tac-Toe
 The Tic Tac Toe is free classic puzzle game also known as Noughts and Crosses or sometimes X and O.
 Our game offers:
-✓ 3 different game levels
-✓ game statistics
+**✓ 3 different game levels**
+**✓ game statistics**
 
 Developed as a part of a personal project. 
-Programming Language: C++. 
-The game includes three levels namely, Easy, Hard, Impossible. 
+**Programming Language:** **C++**. 
+The game includes three levels namely, **Easy**, **Hard**, **Impossible**. 
 We can play against the computer.
 
-Game for 1 player! and provide option of 2 Player also.
+**Game for 1 player! and provide option of 2 Player also.**
 
 The Tic Tac Toe game is a game for two players, who take turns marking the spaces in a 3×3 grid. 
 The player who succeeded in placing three respective marks in a horizontal, vertical, or diagonal row wins the game.
